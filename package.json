@@ -44,7 +44,7 @@
   "homepage": "https://github.com/settlemint/blockchain-anchor#readme",
   "dependencies": {
     "ethers": "^3.0.8",
-    "lodash": "^4.17.19"
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@types/jest": "^22.2.0",
